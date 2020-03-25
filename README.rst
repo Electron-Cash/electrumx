@@ -1,3 +1,13 @@
+======================================
+Note: This fork as been discontinuted!
+======================================
+
+Until further notice, development and support for this software has been discontinued.  It is suggested you instead install one of the below implementations for your Bitcoin Cash SPV server needs:
+
+- `Fulcrum <https://github.com/cculianu/fulcrum>`_ (C++ based, cross platform)
+- `ElectrumX <https://github.com/kyuupichan/electrumx>`_ (Python based)
+
+What follows is the original README:
 
 ===============================================
 ElectrumX - Reimplementation of electrum-server
